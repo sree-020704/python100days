@@ -45,4 +45,4 @@ elif user_choice > computer_choice:
 elif computer_choice==user_choice:
     print("It's a draw")    
 else:
-    print("You typed a invalid number,you lose!")    
+    print("You typed a invalid number")    
